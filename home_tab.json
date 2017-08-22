@@ -1,0 +1,40 @@
+{
+  "result": "1",
+  "msg": "success",
+  "data": {
+    "tabList": [
+      {
+        "name": "美女",
+        "url" : "tab0_detail.json"
+      },
+      {
+        "name": "明星",
+        "url" : "tab1_detail.json"
+      },
+      {
+        "name": "影视",
+        "url" : "tab2_detail.json"
+      },
+      {
+        "name": "风景",
+        "url": "tab2_detail.json"
+      },
+      {
+        "name": "游戏",
+        "url": "tab2_detail.json"
+      },
+      {
+        "name": "动物",
+        "url": "tab2_detail.json"
+      },
+      {
+        "name": "汽车",
+        "url": "tab2_detail.json"
+      },
+      {
+        "name": "体育",
+        "url": "tab2_detail.json"
+      }
+    ]
+  }
+}
