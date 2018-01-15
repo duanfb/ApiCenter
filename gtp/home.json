@@ -4,42 +4,44 @@
   "data": {
     "banner": [
       {
-        "name": "金秀贤",
-        "desc": "韩国帅哥金秀贤",
-        "imgUrl": "http://pic.3gbizhi.com/2016/1202/20161202111911531.jpg",
-        "actionUrl": "http://www.baidu.com"
+        "name": "",
+        "desc": "",
+        "imgUrl": "http://data.17jita.com/attachment/block/4e/4ecd7189606ddae5646935e13e44028b.jpg",
+        "actionUrl": "http://www.17jita.com/"
       },
       {
-        "name": "金秀贤",
-        "desc": "韩国帅哥金秀贤",
-        "imgUrl": "http://pic.3gbizhi.com/2016/1202/20161202111911531.jpg",
-        "actionUrl": "http://www.baidu.com"
+        "name": "赵雷",
+        "desc": "",
+        "imgUrl": "http://data.17jita.com/attachment/block/60/60b9bae78e6132f935af3751e0c76923.jpg",
+        "actionUrl": "http://www.17jita.com/"
       },
       {
-        "name": "金秀贤",
-        "desc": "韩国帅哥金秀贤",
-        "imgUrl": "http://pic.3gbizhi.com/2016/1202/20161202111911531.jpg",
-        "actionUrl": "http://www.baidu.com"
-      },
-      {
-        "name": "金秀贤",
-        "desc": "韩国帅哥金秀贤",
-        "imgUrl": "http://pic.3gbizhi.com/2016/1202/20161202111911531.jpg",
-        "actionUrl": "http://www.baidu.com"
+        "name": "毛不易",
+        "desc": "",
+        "imgUrl": "http://data.17jita.com/attachment/block/63/639cbef8c1f88814b374bc8eb50d45ba.jpg",
+        "actionUrl": "http://www.17jita.com/"
       }
     ],
     "music":[
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":""
+        "name":"写给成都的歌",
+        "author":"赵雷",
+        "desc":"C调高清弹唱谱",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/portal/201608/23/201450qn46aug96sx164ga.png",
+          "http://data.17jita.com/attachment/portal/201608/23/201451a9u9q7xq7vm57luf.png",
+          "http://data.17jita.com/attachment/portal/201703/03/220158ubta83eof2injjrf.png"
+        ]
       },
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":""
+        "name":"斑马斑马",
+        "author":"宋冬野",
+        "desc":"C调高清弹唱谱",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/forum/201604/13/221628ng0zbaja7sps0bt0.png",
+          "http://data.17jita.com/attachment/forum/201604/13/221634xtdawbrxgwrtr6qg.png",
+          "http://data.17jita.com/attachment/forum/201604/13/221640k3kdduqkecs3ztc4.png"
+        ]
       },
       {
         "name":"沧海一声笑",
