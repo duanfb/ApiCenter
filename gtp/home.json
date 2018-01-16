@@ -54,34 +54,124 @@
         ]
       },
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":[]
+        "name":"小幸运",
+        "author":"田馥甄hebe",
+        "desc":"C调简单版 我的少女时代主题曲",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/forum/201511/27/182238mxngxz1agchhx7fo.png",
+          "http://data.17jita.com/attachment/forum/201511/27/182247ulhnzm3yx99nsgqz.png",
+          "http://data.17jita.com/attachment/forum/201511/27/182254wvzijyqxiiesyyyz.png"
+        ]
       },
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":[]
+        "name":"老男孩",
+        "author":"筷子兄弟",
+        "desc":"C调原版编配",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/forum/201604/13/204154fzo11sb2wsh2lgzb.png",
+          "http://data.17jita.com/attachment/forum/201604/13/204204uev36x32537i65ti.png",
+          "http://data.17jita.com/attachment/forum/201604/13/204214gdghivfwgglgoot6.png"
+        ]
       },
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":[]
+        "name":"南山南",
+        "author":"马頔",
+        "desc":"G调高清版",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/portal/201407/02/234148yp5oy22rztnruqi2.png",
+          "http://data.17jita.com/attachment/portal/201407/02/234149mfufki0kd2e7iz99.png",
+          "http://data.17jita.com/attachment/portal/201407/02/234149o2i18chyjz7v1cqv.png"
+        ]
       },
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":[]
+        "name":"夜空中最亮的星",
+        "author":"逃跑计划",
+        "desc":"G调高清版",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/forum/201505/03/100732qs4v4uo55f1fukmi.png",
+          "http://data.17jita.com/attachment/forum/201505/03/100739bel18vllvd6elh06.png",
+          "http://data.17jita.com/attachment/forum/201505/03/100742ul3a7a97au393hha.png"
+        ]
       },
       {
-        "name":"沧海一声笑",
-        "author":"GAI",
-        "desc":"歌手第二季",
-        "imageUrl":[]
+        "name":"平凡之路",
+        "author":"朴树",
+        "desc":"G调简单版",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/portal/201407/21/163520ux9a4ay5yt69izqq.png",
+          "http://data.17jita.com/attachment/portal/201407/21/163520rpihirbgig97hxdb.png",
+          "http://data.17jita.com/attachment/portal/201407/21/163521jg6rbq811zzwq8jb.png"
+        ]
+      },
+      {
+        "name":"晴天",
+        "author":"周杰伦",
+        "desc":"G调高清版 原版编配",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/forum/201412/20/213333npk8mvppcav3rmv8.png",
+          "http://data.17jita.com/attachment/forum/201412/20/213350vup2gr2gimvubfbp.png",
+          "http://data.17jita.com/attachment/forum/201412/20/213402pwofts4qkifv4quk.png"
+        ]
+      },
+      {
+        "name": "曾经的你",
+        "author": "许巍",
+        "desc": "E调原版编配",
+        "imageUrl": [
+          "http://data.17jita.com/attachment/forum/201412/17/230321qddutudex015axk0.png",
+          "http://data.17jita.com/attachment/forum/201412/17/230324jn517f7f7fznag9n.png",
+          "http://data.17jita.com/attachment/forum/201412/17/230326kcmrcemoskicxxs0.png"
+        ]
+      },
+      {
+        "name": "奇妙能力歌",
+        "author": "陈粒",
+        "desc": "C调高清版",
+        "imageUrl": [
+          "http://data.17jita.com/attachment/forum/201505/20/202054ajcfviililcbnflu.jpg",
+          "http://data.17jita.com/attachment/forum/201505/20/202110hacellojs1cdsdam.jpg",
+          "http://data.17jita.com/attachment/forum/201505/20/202115jjwdzttppju3zwat.jpg"
+        ]
+      },
+      {
+        "name": "演员",
+        "author": "薛之谦",
+        "desc": "G调高清版",
+        "imageUrl": [
+          "http://data.17jita.com/attachment/forum/201510/13/162613f23kdzxid8fplm8t.gif",
+          "http://data.17jita.com/attachment/forum/201510/13/162622evbubzao95mn679r.gif",
+          "http://data.17jita.com/attachment/forum/201510/13/162632eaiwzwiiiiizpasj.gif"
+        ]
+      },
+      {
+        "name": "彩虹",
+        "author": "周杰伦",
+        "desc": "C调简单版",
+        "imageUrl": [
+          "http://data.17jita.com/attachment/portal/201504/16/124159cpekbhve9pe4h9bh.png",
+          "http://data.17jita.com/attachment/portal/201504/16/124209w2m77r62faa6v74l.png",
+          "http://data.17jita.com/attachment/portal/201504/16/124215nzpy1y6xg41f091z.png"
+        ]
+      },
+      {
+        "name": "南方姑娘",
+        "author": "赵雷",
+        "desc": "C调玩易吉他高清版",
+        "imageUrl": [
+          "http://data.17jita.com/attachment/portal/201410/30/115750j3nrl5zhya3zkc9q.png",
+          "http://data.17jita.com/attachment/portal/201410/30/115755ot9m63by11y76qwr.png",
+          "http://data.17jita.com/attachment/portal/201410/30/115759ueedxlecxdjxk23l.png"
+        ]
+      },
+      {
+        "name": "故乡",
+        "author": "许巍",
+        "desc": "G调原版编配",
+        "imageUrl": [
+          "http://data.17jita.com/attachment/forum/201412/03/231209ddbynrbazud8mrmu.png",
+          "http://data.17jita.com/attachment/forum/201412/03/231215k3bz9t68bn9ttf6i.png",
+          "http://data.17jita.com/attachment/forum/201412/03/231221vpe0cbrl3gh9ql98.png"
+        ]
       }
     ]
   }
