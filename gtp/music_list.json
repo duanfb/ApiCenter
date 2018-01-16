@@ -2,26 +2,6 @@
   "result": "1",
   "msg": "success",
   "data": {
-    "banner": [
-      {
-        "name": "",
-        "desc": "",
-        "imgUrl": "http://data.17jita.com/attachment/block/4e/4ecd7189606ddae5646935e13e44028b.jpg",
-        "actionUrl": "http://www.17jita.com/"
-      },
-      {
-        "name": "赵雷",
-        "desc": "",
-        "imgUrl": "http://data.17jita.com/attachment/block/60/60b9bae78e6132f935af3751e0c76923.jpg",
-        "actionUrl": "http://www.17jita.com/"
-      },
-      {
-        "name": "毛不易",
-        "desc": "",
-        "imgUrl": "http://data.17jita.com/attachment/block/63/639cbef8c1f88814b374bc8eb50d45ba.jpg",
-        "actionUrl": "http://www.17jita.com/"
-      }
-    ],
     "music":[
       {
         "name":"写给成都的歌",
