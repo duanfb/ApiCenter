@@ -2,7 +2,7 @@
   "result": "1",
   "msg": "success",
   "data": {
-    "version": 1,
+    "version": 2,
     "music":[
       {
         "name":"新增歌曲1",
