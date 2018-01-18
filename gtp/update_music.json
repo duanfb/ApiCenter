@@ -2,7 +2,7 @@
   "result": "1",
   "msg": "success",
   "data": {
-    "version": 5,
+    "version": 6,
     "music":[
       {
         "name":"新增歌曲1",
@@ -46,6 +46,16 @@
       },
       {
         "name":"新增歌曲5",
+        "author":"新增",
+        "desc":"新增",
+        "imageUrls":[
+          "http://data.17jita.com/attachment/portal/201608/23/201450qn46aug96sx164ga.png",
+          "http://data.17jita.com/attachment/portal/201608/23/201451a9u9q7xq7vm57luf.png",
+          "http://data.17jita.com/attachment/portal/201703/03/220158ubta83eof2injjrf.png"
+        ]
+      },
+      {
+        "name":"新增歌曲6",
         "author":"新增",
         "desc":"新增",
         "imageUrls":[
