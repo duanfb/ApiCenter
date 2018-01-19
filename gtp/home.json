@@ -4,21 +4,21 @@
   "data": {
     "banner": [
       {
-        "name": "",
-        "desc": "",
-        "imgUrl": "http://data.17jita.com/attachment/block/4e/4ecd7189606ddae5646935e13e44028b.jpg",
+        "name": "前任3",
+        "desc": "前任3",
+        "imgUrl": "https://img.jitatang.com/wp-content/uploads/2018/01/2018011012185169.jpg",
         "actionUrl": "http://www.17jita.com/"
       },
       {
-        "name": "赵雷",
-        "desc": "",
-        "imgUrl": "http://data.17jita.com/attachment/block/60/60b9bae78e6132f935af3751e0c76923.jpg",
+        "name": "寻梦环游记",
+        "desc": "寻梦环游记",
+        "imgUrl": "https://img.jitatang.com/wp-content/uploads/2017/12/2017121512575178.jpg",
         "actionUrl": "http://www.17jita.com/"
       },
       {
-        "name": "毛不易",
-        "desc": "",
-        "imgUrl": "http://data.17jita.com/attachment/block/63/639cbef8c1f88814b374bc8eb50d45ba.jpg",
+        "name": "薛之谦",
+        "desc": "薛之谦",
+        "imgUrl": "https://img.jitatang.com/wp-content/uploads/2017/11/2017111913452617.jpg",
         "actionUrl": "http://www.17jita.com/"
       }
     ],
