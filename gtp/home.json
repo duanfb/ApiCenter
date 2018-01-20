@@ -24,6 +24,28 @@
     ],
     "music":[
       {
+        "name":"无问",
+        "author":"毛不易",
+        "desc":"《无问西东》主题曲",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011908450115.jpg",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011908450218.jpg",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011908450249.jpg",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011908450290.jpg",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/201801190845037.jpg",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011908450341.jpg"
+        ]
+      },
+      {
+        "name":"等你下课",
+        "author":"周杰伦",
+        "desc":"G调吉他六线谱",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011905202014.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011905202171.gif"
+        ]
+      },
+      {
         "name":"写给成都的歌",
         "author":"赵雷",
         "desc":"C调高清弹唱谱",
