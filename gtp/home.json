@@ -24,6 +24,16 @@
     ],
     "music":[
       {
+        "name":"都选C",
+        "author":"大鹏",
+        "desc":"高清图片六线谱",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2017/10/2017102107433435.gif",
+          "https://img.jitatang.com/wp-content/uploads/2017/10/2017102107433559.gif",
+          "https://img.jitatang.com/wp-content/uploads/2017/10/2017102107433596.gif"
+        ]
+      },
+      {
         "name":"无问",
         "author":"毛不易",
         "desc":"《无问西东》主题曲",
@@ -43,6 +53,45 @@
         "imageUrls":[
           "https://img.jitatang.com/wp-content/uploads/2018/01/2018011905202014.gif",
           "https://img.jitatang.com/wp-content/uploads/2018/01/2018011905202171.gif"
+        ]
+      },
+      {
+        "name":"空空如也",
+        "author":"胡66",
+        "desc":"C调吉他六线谱",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011903242518.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011903242551.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011903242656.gif"
+        ]
+      },
+      {
+        "name":"放过自己",
+        "author":"庄心妍",
+        "desc":"C调吉他六线谱",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011613313338.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011613313449.gif"
+        ]
+      },
+      {
+        "name":"说散就散",
+        "author":"陈咏桐",
+        "desc":"D调高清六线谱",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011204033968.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011204034091.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011204034168.gif"
+        ]
+      },
+      {
+        "name":"广东十年爱情故事",
+        "author":"深蓝雨吉他编配",
+        "desc":"D调六线谱",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/201801101458069.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011014580698.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018011014580778.gif"
         ]
       },
       {
