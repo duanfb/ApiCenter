@@ -24,6 +24,36 @@
     ],
     "music":[
       {
+        "name":"十九岁",
+        "author":"赵雷",
+        "desc":"G调高清弹唱谱",
+        "imageUrls":[
+          "http://data.17jita.com/attachment/forum/201801/25/182156e5n4iyzdvk7azrvd.png",
+          "http://data.17jita.com/attachment/forum/201801/25/182156y3rhehp403t6dp3d.png",
+          "http://data.17jita.com/attachment/forum/201801/25/182157t94uuz8woi45a2q8.png"
+        ]
+      },
+      {
+        "name":"拥抱",
+        "author":"五月天",
+        "desc":"六线谱_大伟版",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018012014393553.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/201801201439365.gif"
+        ]
+      },
+      {
+        "name":"可惜我是水瓶座",
+        "author":"杨千嬅",
+        "desc":"六线谱_大伟版",
+        "imageUrls":[
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018012013590519.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018012013590626.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018012013590664.gif",
+          "https://img.jitatang.com/wp-content/uploads/2018/01/2018012013590794.gif"
+        ]
+      },
+      {
         "name":"都选C",
         "author":"大鹏",
         "desc":"高清图片六线谱",
