@@ -30,6 +30,26 @@
     ],
     "music":[
       {
+        "name":"送别",
+        "author":"留声玩具",
+        "desc":"C调高清弹唱谱",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/forum/201802/26/212509rfk19w3rk1ot31jr.png",
+          "http://data.17jita.com/attachment/forum/201802/26/212510as48ntc6krc4c56i.png",
+          "http://data.17jita.com/attachment/forum/201802/26/212510mbj3lzjzrt2br6fv.png"
+        ]
+      },
+      {
+        "name":"等你下课",
+        "author":"周杰伦",
+        "desc":"G调唯音悦吉他社制谱版",
+        "imageUrl":[
+          "http://data.17jita.com/attachment/portal/201801/19/221608ewzx2xmwmo3v7fvf.png",
+          "http://data.17jita.com/attachment/portal/201801/19/221609uhhh4hnhh3hpztt0.png",
+          "http://data.17jita.com/attachment/portal/201801/19/221610n6uyk0t6ktky93yk.png"
+        ]
+      },
+      {
         "name":"十九岁",
         "author":"赵雷",
         "desc":"G调高清弹唱谱",
