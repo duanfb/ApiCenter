@@ -3,5 +3,5 @@
   "openAd": false,
 
   "//":"是否关闭app，侵权等",
-  "closeApp": true
+  "closeApp": false
 }
