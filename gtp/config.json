@@ -1,3 +1,7 @@
 {
-  "openAd": false
+  "//":"是否打开广告",
+  "openAd": false,
+
+  "//":"是否关闭app，侵权等",
+  "closeApp": true
 }
