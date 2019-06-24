@@ -1,54 +1,50 @@
 {
-  "result": "1",
-  "msg": "success",
-  "data": {
-    "banner": [
-      {
-        "name": "《无问》吉他谱_G调入门版_无问吉他弹唱教学_高音教",
-        "desc": "《无问》吉他谱_G调入门版_无问吉他弹唱教学_高音教",
-        "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2018/12/2018121607165753.jpeg",
-        "actionUrl": "https://www.jitatang.com/wwgyj.html"
-      },
-      {
-        "name": "戴荃_《悟空》",
-        "desc": "戴荃_《悟空》",
-        "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2018/12/2018121607090568.jpeg",
-        "actionUrl": "https://www.jitatang.com/wkcdp.html"
-      }
-    ],
-    "singers": [
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      },
-      {
-        "name": "送别",
-        "avatar": "留声玩具"
-      }
-    ]
-  }
+  "banner": [
+    {
+      "name": "《无问》吉他谱_G调入门版_无问吉他弹唱教学_高音教",
+      "desc": "《无问》吉他谱_G调入门版_无问吉他弹唱教学_高音教",
+      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2018/12/2018121607165753.jpeg",
+      "actionUrl": "https://www.jitatang.com/wwgyj.html"
+    },
+    {
+      "name": "戴荃_《悟空》",
+      "desc": "戴荃_《悟空》",
+      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2018/12/2018121607090568.jpeg",
+      "actionUrl": "https://www.jitatang.com/wkcdp.html"
+    }
+  ],
+  "singers": [
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    },
+    {
+      "name": "送别",
+      "avatar": "留声玩具"
+    }
+  ]
 }
