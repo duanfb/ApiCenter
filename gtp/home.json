@@ -1,50 +1,54 @@
 {
   "banner": [
     {
-      "name": "《无问》吉他谱_G调入门版_无问吉他弹唱教学_高音教",
-      "desc": "《无问》吉他谱_G调入门版_无问吉他弹唱教学_高音教",
-      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2018/12/2018121607165753.jpeg",
-      "actionUrl": "https://www.jitatang.com/wwgyj.html"
+      "name": "往后余生",
+      "imgUrl": "http://data.17jita.com/attachment/block/78/78c3f51c2837e97a6676ffd5983740bf.jpg"
     },
     {
-      "name": "戴荃_《悟空》",
-      "desc": "戴荃_《悟空》",
-      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2018/12/2018121607090568.jpeg",
-      "actionUrl": "https://www.jitatang.com/wkcdp.html"
+      "name": "纸短情长",
+      "imgUrl": "http://data.17jita.com/attachment/block/e2/e233c86c7fd5e49f9e4a14e21d764345.jpg"
+    },
+    {
+      "name": "于文文体面",
+      "imgUrl": "http://data.17jita.com/attachment/block/43/43ce832f60e22653e3721793be6d812f.jpg"
+    },
+    {
+      "name": "成都赵雷",
+      "imgUrl": "http://data.17jita.com/attachment/block/cd/cdf3b58923f9f4e71a78266862c1cd60.jpg"
     }
   ],
   "singers": [
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "周杰伦",
+      "avatar": "http://pic.xiami.net/images/artistlogo/36/15162027033536.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "Beyond",
+      "avatar": "http://pic.xiami.net/images/artistlogo/54/14213912785354.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "许巍",
+      "avatar": "http://pic.xiami.net/images/artistlogo/86/14326365705286.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "五月天",
+      "avatar": "http://pic.xiami.net/images/artistlogo/24/15196381554524.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "林俊杰",
+      "avatar": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2260672614,728087208&fm=26&gp=0.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "水木年华",
+      "avatar": "http://pic.xiami.net/images/artistlogo/72/13895024167272.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "羽泉",
+      "avatar": "http://pic.xiami.net/images/artistlogo/12/15236004358512.jpg"
     },
     {
-      "name": "送别",
-      "avatar": "留声玩具"
+      "name": "毛不易",
+      "avatar": "http://pic.xiami.net/images/artistlogo/10/15042550745810.jpg"
     }
   ]
 }
