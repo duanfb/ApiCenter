@@ -2,19 +2,38 @@
   "banner": [
     {
       "name": "南方姑娘",
-      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2017/11/2017111003003576.jpg"
+      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2017/11/2017111003003576.jpg",
+      "urls": [
+        "http://tabs.gtpso.com/2019-02-25/29d89e3d5509be594fe6f58a52d65dff.png",
+        "http://tabs.gtpso.com/2019-02-25/837cb06e3e5c0cb0cb2d1ffd561e48ac.png",
+        "http://tabs.gtpso.com/2019-02-25/dc91d6b20ee13f9e228029a1aaafa9ca.png",
+        "http://tabs.gtpso.com/2019-02-25/e1fe6e379c95f04ff2fe930c224d65c6.png"
+      ]
     },
     {
       "name": "Beyond",
-      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2019/06/2019062313322229.jpeg"
+      "imgUrl": "https://cdn.jitatang.com/wp-content/uploads/2019/06/2019062313322229.jpeg",
+      "urls": [
+        "http://tabs.gtpso.com/2019-03-20/370fcc56808cf2d74424cc71ba5e666b.png",
+        "http://tabs.gtpso.com/2019-03-20/0452d2b1ea101d909dcfcc879095e6e4.png"
+      ]
     },
     {
       "name": "纸短情长",
-      "imgUrl": "http://img0.imgtn.bdimg.com/it/u=3897236840,2505131438&fm=26&gp=0.jpg"
+      "imgUrl": "http://img0.imgtn.bdimg.com/it/u=3897236840,2505131438&fm=26&gp=0.jpg",
+      "urls": [
+        "http://tabs.gtpso.com/2019-03-27/2bc0a817190328aa6070bf33a9b7e27b.png",
+        "http://tabs.gtpso.com/2019-03-27/2b3598ef67e6bdad9cb59711b382336d.png"
+      ]
     },
     {
       "name": "体面",
-      "imgUrl": "http://i2.hdslb.com/bfs/archive/0f6f13301d4c0a4a14f29bddadd96513fbbdfc97.jpg"
+      "imgUrl": "http://i2.hdslb.com/bfs/archive/0f6f13301d4c0a4a14f29bddadd96513fbbdfc97.jpg",
+      "urls": [
+        "http://tabs.gtpso.com/2019-03-27/26c1cccd78635a64bbc41f7e76db3238.png",
+        "http://tabs.gtpso.com/2019-03-27/f1d4d8c58d14754e429df77403b7fef3.png",
+        "http://tabs.gtpso.com/2019-03-27/4437097914449efc25ac7646b2c29f03.png"
+      ]
     }
   ],
   "singers": [
